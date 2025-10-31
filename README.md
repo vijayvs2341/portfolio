@@ -4,9 +4,7 @@ A **modern and responsive portfolio website** built using **HTML, CSS, Bootstrap
 This website showcases my **skills, education, projects, and services** as a Full Stack Developer.
 
 ---
-
-## 🚀 Live Demo  
-👉 [Click Here to View Portfolio](#)  
+ 
 
 ## 📂 Download Resources
 
