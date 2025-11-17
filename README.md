@@ -235,7 +235,7 @@ Vijay Selvan
 📧 Email: vijayvs2341@gmail.com
 
 📱 Phone: +91 6379275270
-🔗 LinkedIn: Add your full profile URL
+
 
 ⭐ Support
 
