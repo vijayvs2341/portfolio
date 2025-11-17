@@ -4,6 +4,14 @@ Modern Dark UI • Glassmorphism • AOS Animations • Fully Responsive Portfol
 This repository contains my personal developer portfolio, built with modern UI principles, dark theme aesthetics, and smooth animations.
 The website highlights my skills, education, services, and projects, offering a clean and interactive way to showcase my professional background as an MBA graduate & Python Full-Stack Developer.
 
+## 🚀 Live Demo
+
+You can download the latest release of my portfolio here:
+
+🔗 [Download Portfolio v1.0](https://github.com/vijayvs2341/portfolio/releases/download/v1.0/portfolio.vijay.zip)
+
+> Note: After downloading, extract the ZIP file and open `index.html` in your browser to view the portfolio.
+
 
 
 ✨ Features
